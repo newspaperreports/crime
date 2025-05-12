@@ -120,6 +120,11 @@ window.addEventListener("load", function () {
     },
     {
       link: "https://www.newspaperreports.com",
+      image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOGaen34VdZysy4CaEgejF3lxpp2I-CtqB2oSK9W5YOODQ2MAo-UHCPtxHhPiI8TpEdfGqMnc06bG0ATAM2JvN0W9PAPEpHR60eAE1_twaGWA6BAoPp_MVijKZ5FfaKl4K2IK7Uueu2tDrJ2HLZyPXaJv_Qj365NKkeU4HNmYoNwQHHbuRdmXREDlVddHp/s320/today-female-crime.jpg",
+      alt: "Today Female Crime"
+    },
+    {
+      link: "https://www.newspaperreports.com",
       image: "https://i.pinimg.com/736x/39/f5/78/39f578876045ff4ae624e61ecb7970c0.jpg",
       alt: "Update Car"
     }
