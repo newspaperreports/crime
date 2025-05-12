@@ -14,13 +14,13 @@ window.addEventListener("load", function () {
       },
       {
         link: "https://www.profitableratecpm.com/d9xwx397w?key=24ee9bd7b0f5faa4264a7d8197a8a6f4",
-        image: "https://i.pinimg.com/736x/c7/30/0c/c7300c9b20e67cff559d4a7a66c95d21.jpg",
-        alt: "HD Camera 12K"
+        image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOGaen34VdZysy4CaEgejF3lxpp2I-CtqB2oSK9W5YOODQ2MAo-UHCPtxHhPiI8TpEdfGqMnc06bG0ATAM2JvN0W9PAPEpHR60eAE1_twaGWA6BAoPp_MVijKZ5FfaKl4K2IK7Uueu2tDrJ2HLZyPXaJv_Qj365NKkeU4HNmYoNwQHHbuRdmXREDlVddHp/s320/today-female-crime.jpg",
+        alt: "Today Female Crime"
       },
       {
         link: "https://www.profitableratecpm.com/d9xwx397w?key=24ee9bd7b0f5faa4264a7d8197a8a6f4",
-        image: "https://i.pinimg.com/736x/5d/1d/6f/5d1d6f88ef6c2893c7064729025f3299.jpg",
-        alt: "Digital Marketing"
+        image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQG_wKQ_ezqm7TJBFzk8cHWO6i6lHOdxtzPkUma7SgTeiQYzaeAV4mRSnhmjz7x_ycuXBJPZhsAb8uLtPp4PX1tMog0DNVp8vzr3dVNnFIU_XVheKB26XqAENkOUqrRF2ShanRoP4XFSfl_ZTfz1OlO69jRgacGjtrFQKmW45a278gvOYY9XJzKgeu-TJP/s320/hide-crime.jpg",
+        alt: "Today Hide crime"
       },
       {
         link: "https://www.profitableratecpm.com/d9xwx397w?key=24ee9bd7b0f5faa4264a7d8197a8a6f4",
